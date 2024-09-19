@@ -1,0 +1,17 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+Build/
+
+*.log
+Config/DefaultEditor.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+.DS_Store
+Thumbs.db
+
+Venv/
+pyvenv.cfg
